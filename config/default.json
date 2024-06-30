@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://testUser:k-RPG7FNuit_Pn!@atlascluster.je4auha.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000
+}
